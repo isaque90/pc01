@@ -1,8 +1,10 @@
 
 body {
-    background: #CCCCCC
+    background: #030303
 }
-
+#banner {
+    width: 100%;
+}
 p {
     text-align: center;
 }

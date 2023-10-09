@@ -21,6 +21,10 @@ body {
     width: 100%;
 }
 
+#banner {
+    
+}
+
 h1 {
     text-align: center
 }
@@ -44,3 +48,11 @@ em strong {
 .beneficios {
      backgroud: #9716ca
 }
+
+p {
+    text-align: center
+    
+}
+ .beneficios {
+      background: #CCCCCC;
+ }
